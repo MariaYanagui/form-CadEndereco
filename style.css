@@ -1,0 +1,21 @@
+h3 {
+    margin-left: 1%;
+}
+body {
+    text-align: center;
+    margin-left: 22%;
+    margin-top: 10%;
+}
+form {
+    margin: 6%;
+    padding: 1%;
+    border: 5px solid #dc3545;
+    width: 70%;
+}
+input[type="text"] {
+    padding: 8px;
+    font-size: 14px;
+    border: 1px solid #dc3545; /* vermelho */
+    border-radius: 3px;
+    transition: border-color 0.3s ease;
+}
