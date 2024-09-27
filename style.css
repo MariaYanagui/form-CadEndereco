@@ -15,7 +15,6 @@ form {
 input[type="text"] {
     padding: 8px;
     font-size: 14px;
-    border: 1px solid #dc3545; /* vermelho */
     border-radius: 3px;
     transition: border-color 0.3s ease;
 }
