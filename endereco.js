@@ -39,13 +39,13 @@ const pesquisarcep = async() => {
         const addres = await dados.json();
         // JSON  é um formato leve para trocar dados, é usado principalmente para enviar e receber dados entre um cliente e um servidor.
 
-        console.log(addres.uf);
+       
         if(addres.hasOwnProperty('erro')){
             alert('CEP não encontrado');
         } else{
             preencherFormulario(addres);
         }
-    } else{
+    }else{
         alert("CEP Incorreto!");
     }
 }
