@@ -44,8 +44,10 @@
 [FOCUSOUT](https://developer.mozilla.org/pt-BR/docs/Web/API/Element/focusout_event)
 
 <h2 align="center">🖊️ AUTORES </h2>
+
 # Autora
-[Maria Eduarda Yanagui Silva](https://github.com/MariaYanagui/)
+
+[Maria Yanagui](https://github.com/MariaYanagui)
 
 <img src="yanagui.jpeg" width=110px border=5px>
 
